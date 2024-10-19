@@ -27,7 +27,7 @@ class MathUtilityDDTTest {
                 {3,6},
                 {4,24},
                 {5,120},
-                {6,720}
+                {6,7200}
         };
     }
     @ParameterizedTest // hãy biến hàm này thành hàm tham số hoá
